@@ -1,0 +1,11 @@
+***********************************************************************************
+// Future Financial 
+// AUTHOR: Jasmine Mills, Tyrone Sherman, and Reginald Hardin
+// DATE: 26 Feb 2018
+// VERSION:  1.0
+// PURPOSE: Financial Planning application
+// DESCRIPTION: Single-user application to help plan for financial freedom using 
+//				information input by the user to include income and debts.
+//
+//********************************************************************************** 
+Financial Engine!!!!!
